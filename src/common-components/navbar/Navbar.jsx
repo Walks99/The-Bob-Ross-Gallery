@@ -3,7 +3,7 @@ import companyLogo from "../../assets/images/company-logo/BobRoss.png";
 
 function Navbar() {
   return (
-    <div className="flex items-center justify-between bg-green-200">
+    <div className="flex items-center justify-between bg-green-200 h-24">
       <div className="flex items-center">
         <img src={companyLogo} alt="company logo" className="w-20 h-auto" />
         <p className="ml-4">The Bob Ross Gallery</p>

@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from '../../common-components/navbar/Navbar'
 import Header from './components/Header'
 import Listings from './components/Listings'
+import Footer from './components/Footer'
 
 function HomePage() {
   return (
@@ -9,6 +10,7 @@ function HomePage() {
         <Navbar />
         <Header />
         <Listings />
+        <Footer />
     </div>
   )
 }
