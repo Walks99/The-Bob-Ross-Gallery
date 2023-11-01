@@ -3,13 +3,13 @@ import companyLogo from "../../assets/images/company-logo/BobRoss.png";
 
 function Navbar() {
   return (
-    <div className="flex items-center justify-between bg-green-200 h-24">
+    <div className="flex md:flex md:flex-row md:items-center md:justify-between bg-[#BDDDF4] h-20">
       <div className="flex items-center">
-        <img src={companyLogo} alt="company logo" className="w-20 h-auto" />
-        <p className="ml-4">The Bob Ross Gallery</p>
+        <img src={companyLogo} alt="company logo" className="w-16 h-auto ml-4" />
+        <p className="ml-4 font-serif">The Bob Ross Gallery</p>
       </div>
       <div>
-        <ul className="flex justify-between mr-10 items-center">
+        <ul className="hidden md:flex md:justify-between md:mr-10 md:items-center md:font-serif">
           <li className="mr-4">
             <a href="/">Home</a>
           </li>
@@ -19,7 +19,7 @@ function Navbar() {
           <li className="mr-4">
             <a href="/about">About</a>
           </li>
-          <li className="mr-4 border-solid border-2 border-sky-500 rounded bg-indigo-500 text-white p-2 font-bold">
+          <li className="mr-4 border-none rounded bg-indigo-500 text-white p-2 font-bold">
             <a href="/contact">Contact</a>
           </li>
         </ul>
