@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 
 function HomePage() {
   return (
-    <div className="h-screen flex flex-col">
+    <div className="h-screen flex flex-col bg-[#E8F3F3]">
       <Navbar />
       <div className="flex-grow">
         <Header />
