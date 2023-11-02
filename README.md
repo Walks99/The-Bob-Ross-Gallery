@@ -18,12 +18,19 @@ Table of Contents
 - Getting started
     - [Instructions](#5-getting-started-with-the-bob-ross-gallery-website)
 
+- [Contribute](#6-contribute)
+- [License](#7-license)
+- [Contact](#8-contact)
+
+
 ## 1. Project
 #### *Overview*:
 
 <details>
     "The Bob Ross Gallery website is an online platform dedicated to celebrating the life and artistic legacy of the iconic American painter, Bob Ross. This website serves as a digital gallery where visitors can immerse themselves in the beauty of Bob Ross's timeless landscapes and learn about his unique 'wet-on-wet' oil painting technique. Explore a vast collection of his tranquil and inspiring artworks, discover the man behind the 'Joy of Painting' television series, and find resources to further your own creative journey. Whether you're an art enthusiast, a Bob Ross fan, or someone seeking a peaceful escape into the world of art, The Bob Ross Gallery website offers a serene and informative experience."
 </details>
+
+<p align="right">(<a href="#the-bob-ross-gallery-website-documentation">back to top</a>)</p>
 
 ## 2. Pages
 #### *Home Page*:
@@ -73,6 +80,8 @@ The HomePage component serves as the home page for 'The Bob Ross Gallery' websit
 ![alt text](./documentation-images/HomePage-component-example.jpeg)
 
 </details>
+
+<p align="right">(<a href="#the-bob-ross-gallery-website-documentation">back to top</a>)</p>
 
 ## 3. Libraries
 ### *React*:
@@ -156,6 +165,8 @@ Visit Font Awesome for [documentation](https://fontawesome.com/).
 
 </details>
 
+<p align="right">(<a href="#the-bob-ross-gallery-website-documentation">back to top</a>)</p>
+
 ## 4. Frameworks
 #### *Tailwind-CSS*
 
@@ -165,10 +176,69 @@ The integration of the Tailwind CSS library within 'The Bob Ross Gallery website
 Visit Tailwind-CSS [documentation](https://tailwindcss.com/docs/installation).
 </details>
 
+<p align="right">(<a href="#the-bob-ross-gallery-website-documentation">back to top</a>)</p>
+
 ## 5. Getting started with the Bob Ross Gallery Website
+
+#### *instructions*
+
+<details>
+
 #### *Step 1*:
+
+Clone the repo
+```
+git clone https://github.com/Walks99/The-Bob-Ross-Gallery.git
+```
 #### *Step 2*:
+Install packages
+```
+npm install
+```
 #### *Step 3*:
+Start the development server
+```
+npm start
+```
+</details>
+
+<p align="right">(<a href="#the-bob-ross-gallery-website-documentation">back to top</a>)</p>
+
+## 6. Contribute 
+
+<details>
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
+
+</details>
+
+## 7. License 
+
+<details>
+
+Distributed under the Bob Ross License. See LICENSE.txt for more information.
+
+</details>
+
+## 8. Contact 
+
+<details>
+
+- Ben Walker: Ben@missionreadyhq.com
+- Project Link: https://github.com/Walks99/The-Bob-Ross-Gallery.git
+
+</details>
+
+<p align="right">(<a href="#the-bob-ross-gallery-website-documentation">back to top</a>)</p>
+
 
 
 
