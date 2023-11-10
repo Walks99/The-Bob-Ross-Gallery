@@ -1,25 +1,3 @@
-// import React from "react";
-// import { NavLink } from "react-router-dom";
-
-// function DropdownMenu({ toggleDropdown }) {
-//   return (
-//     <div className="absolute top-20 right-0 w-full md:w-auto md:flex bg-white md:bg-transparent">
-//       <ul className="flex flex-col items-center justify-around">
-//         <NavLink to="/artworks" onClick={toggleDropdown}>
-//           Artworks
-//         </NavLink>
-//         <NavLink to="/contact" onClick={toggleDropdown}>
-//           Contact
-//         </NavLink>
-//       </ul>
-//     </div>
-//   );
-// }
-
-// export default DropdownMenu;
-
-// &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
 import React from "react";
 import { NavLink } from "react-router-dom";
 
